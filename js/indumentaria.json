@@ -1,0 +1,45 @@
+
+
+[
+    {
+        "id":"remera-1",
+        "titulo":"tascani",
+        "imagen":"../imagenes/01.jpg",
+        "categoria":{
+            "nombre":"remera",
+            "id":"remera"
+        },
+        "precio": 1000
+    },
+    {
+        "id":"remera-2",
+        "titulo":"inside",
+        "imagen":"../imagenes/02.jpg",
+        "categoria":{
+            "nombre":"remeras",
+            "id":"remeras"
+        },
+        "precio": 2000
+    },
+    {
+        "id":"remera-3",
+        "titulo":"gola",
+        "imagen":"../imagenes/03.jpg",
+        "categoria":{
+            "nombre":"remeras",
+            "id":"remeras"
+        },
+        "precio": 3000
+    },
+    {
+        "id":"remera-4",
+        "titulo":"calvin",
+        "imagen":"../imagenes/04.jpg",
+        "categoria":{
+            "nombre":"remeras",
+            "id":"remeras"
+        },
+        "precio": 4000
+    }
+    
+]
